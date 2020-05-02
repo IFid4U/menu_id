@@ -2,7 +2,7 @@
 
 <div class="menuidz100">
     <ul>
-        <li class="compte"><img src="images/id.png"/>&nbsp;fabdev</a>
+        <li class="compte"><img src="images/id.png"/>&nbsp;fabdev>
             <div class="submenu">
                 <ul>
                     <li class="sousmenucompte"><a href="#">Mon compte</a></li>
